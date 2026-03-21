@@ -16,8 +16,7 @@ This repository implements a **unified automation framework** for API and UI tes
 
 **Outputs:**
 
-- `target/cucumber-report.html` – consolidated scenario report with screenshots and logs  
-- `target/cucumber.json` – JSON report for CI/CD integration  
+- `target/cucumber-report.html` – consolidated scenario report with screenshots and logs    
 - `logs/` – thread-specific API request/response logs  
 - `screenshots/` – captured UI failures for debugging  
 
